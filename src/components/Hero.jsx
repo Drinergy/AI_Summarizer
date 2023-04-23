@@ -8,7 +8,7 @@ const Hero = () => {
             <button 
                 type="button"
                 onClick={() => 
-                    window.open('https://github.com/Drinergy')
+                    window.open('https://github.com/Drinergy/AI_Summarizer')
                 }
                 className="black_btn"
             >
